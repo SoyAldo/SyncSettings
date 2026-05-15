@@ -1,0 +1,28 @@
+{
+    "workbench.colorTheme": "Monokai",
+    "workbench.activityBar.location": "top",
+    "[javascriptreact]": {
+        "editor.defaultFormatter": "esbenp.prettier-vscode",
+    },
+    "antigravity.marketplaceGalleryItemURL": "https://marketplace.visualstudio.com/items",
+    "antigravity.marketplaceExtensionGalleryServiceURL": "https://marketplace.visualstudio.com/_apis/public/gallery",
+    "[json]": {
+        "editor.defaultFormatter": "esbenp.prettier-vscode",
+    },
+    "git.confirmSync": false,
+    "[javascript]": {
+        "editor.defaultFormatter": "esbenp.prettier-vscode",
+    },
+    "git.autofetch": true,
+    "prettier.printWidth": 160,
+    "[typescriptreact]": {
+        "editor.defaultFormatter": "esbenp.prettier-vscode",
+    },
+    "prettier.tabWidth": 4,
+    "[html]": {
+        "editor.defaultFormatter": "esbenp.prettier-vscode",
+    },
+    "[css]": {
+        "editor.defaultFormatter": "esbenp.prettier-vscode",
+    },
+}
